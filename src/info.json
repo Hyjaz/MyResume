@@ -1,0 +1,110 @@
+{
+	"Name": "HYJAZ LOUDIN",
+	"Year": "3rd Year Software Engineer",
+	"resume": "users.encs.concordia.ca/~a_loudin",
+	"experience":[
+		{
+			"Company":"Pratt & Whitney Canada",
+			"Title":"Assitant Project Manager",
+			"Date":"Sep 2015 - Dec 2016",
+			"Location":"1000 Boulevard Marie-Victorin, Longueuil, QC J4G 1A1",
+			"Description": 
+			[
+				"Communicated abroad to guide the developers to Pratt and Whitney’s needs for the development of the Virtual Factory (Software)",
+				"Implemented the scrum methodology, used poker planning to estimate effort needed for tasks and used JIRA to create and assign issues to the developers.",
+				"Developed an Excel based program that enables supervisor to easily schedule the employees under their supervision using Microsoft Access to save the data’s.",
+				"Developed an Excel based program that enables live monitoring of engine parts while using SAP HANA and Microsoft Access to save the data’s.",
+				"Manually tested SQL Server Reporting Services(SSRS) features for proper functionalities.",
+				"Maintained past applications and databases.",
+				"Technologies used: Microsoft Access • VBA • SAP HANA • Oracle(adept) • SSRS(adept)"
+
+			]
+
+		},
+		{
+			"Company":"Buanderie Laser Inc.",
+			"Title":"Supervisor",
+			"Date":"Jan 2007 - Jan 2014",
+			"Location": "5645 Avenue Papineau, Montréal, QC H2G 2W2",
+			"Description": 
+			[
+				"Promoted to supervisor in the first year",
+				"Enhancened Productivity under my supervision",
+				"Developped reflexes and time-management skills",
+				"Supervised newly admitted employees",
+				"Quality supervision before shipment"
+				
+			]
+
+		}
+		
+	],
+	"projects":[
+		{
+		"Url":"https://github.com/Hyjaz/Dungeons-and-Dragons",
+		"Title":"Dungeons and Dragons Simulation",
+		"Date":"Sep 2016 - Dec 2016",
+		"Team" : "Nikolas De Vignet Blanchet - Arnaud St-Onge - Hyjaz Loudin",
+		"Description":
+		[
+				"Following strict guidelines, in a team of 4 we successfully developed the D&D online gaming system using C++.",
+				"Followed the scrum methodology.",
+				"Developed using Visual Studio",
+				"Programming language, technologies and libraries used: C# • Boost library"
+		]
+
+		},
+		{
+		"Url":"https://github.com/Hyjaz/Schedulator",
+		"Title":"Schedulator",
+		"Date":"Jan 2016 - May 2016",
+		"Team" : "Benny Zhao - Lance Lafontaine - Zhipeng Cai",
+		"Description":
+		[
+				"Developed a website such that students can prepare their schedule for a complete year.",
+				"Implemented login page using Node.js framework and MongoDB to store data, while using Mongoose API to access the database from our express application.",
+				"Used VBA to filter all rooms, classes, and time to a JSON format.",
+				"Coded endpoints to facilitate the integration of front-end with back-end.",
+				"Programming language, technologies and libraries used: Node.js • Express • MongoDB • NoSQL",
+				"Similar Project Link: https://gitlab.com/PuzzlePuzzling/BookMe",
+				"Programming language, technologies and libraries used: Python • Flask • PostgreSQL"
+		]
+
+		},
+		{
+		"Url":"",
+		"Title":"Otohits Bot (Personal)",
+		"Date":"Jan 2016 - May 2016",
+		"Team" : "Emir Bozer - Leo Yu - Nikolas De Vignet Blanchet",
+		"Description":
+		[
+				"Developed a bot that would bypass https://www.otohits.net/ security authentication and would automatically start the program",
+				"Possibility to use proxies",
+				"Asynchronous - threading",
+				"Programming language, technologies and libraries used: C# • HttpClient library"		
+		]
+
+		},
+,
+		{
+		"Url":"",
+		"Title":"Car Starter",
+		"Date":"Dec 2014 - Jan 2015",
+		"Team" : "Ahmed Popal - Ahmad Choukair - Hyjaz Loudin",
+		"Description":
+		[
+				"Remote Car starter using an Arduino Uno.",
+				"Bluetooth connectivity",
+				"Rpm Sensor",
+				"Heat sensor (to be added)",
+				"4 24DC/30Amp Relays",
+				"Installed in 3 cars (1995,1997,1998) and continuing to do so.",
+				"Acquired knowledge in programming with the Arduino software and building the electrical circuitry of the remote car starter.",
+				"Learned to be patient in order to reach the end result and work with an open mind under pressure",
+				"Programming language, technologies and libraries used: C++"
+		]
+
+		}
+
+	]
+}
