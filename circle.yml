@@ -1,4 +1,3 @@
 dependencies:
-	override:
-    - npm config set registry http://registry.npmjs.org/
-		- npm install
+  override:
+    - npm install
